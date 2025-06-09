@@ -1,4 +1,4 @@
-# Traveling Salesman Problem Hybrid Genetic-Algorithm with-2-opt-Heuristic Local Search Simulator
+# Traveling Salesman Problem Hybrid Genetic Algorithm with-2-opt-Heuristic Local Search Simulator
 
 ## Project Structure 
 This repository provides an implementation of Traveling Salesman Problem (TSP) hybrid genetic algorithm
