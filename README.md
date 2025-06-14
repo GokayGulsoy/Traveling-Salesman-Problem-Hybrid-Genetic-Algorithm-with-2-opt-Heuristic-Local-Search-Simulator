@@ -152,4 +152,4 @@ More information regarding to experiments conducted and methodology followed can
 
 [^1]: [Link to `Experimental Evaluation of Traveling Salesman
 Problem Hybrid Genetic Algorithm Implementation
-with 2-opt Heuristic Local Search` paper](CENG632_Project_Report_Gökay_Gülsoy_323078045.pdf)
+with 2-opt Heuristic Local Search` paper](CENG632_Project_Report_Gökay_Gülsoy_323078045.pdf).
