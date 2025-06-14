@@ -147,3 +147,9 @@ Example launch.json is provided as follows:
 Then add JavaFX jar libraries from explorer tab referenced libraries section clicking `+` icon.
 After creating launch.json and adding required JavaFX jar libraries to Java project simulator can
 be executed from top right symbol named as `Run Java`
+
+More information regarding to experiments conducted and methodology followed can be found on paper[^1]
+
+[^1]: [Link to `Experimental Evaluation of Traveling Salesman
+Problem Hybrid Genetic Algorithm Implementation
+with 2-opt Heuristic Local Search` paper](CENG632_Project_Report_Gökay_Gülsoy_323078045.pdf)
